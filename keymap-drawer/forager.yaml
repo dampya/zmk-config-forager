@@ -210,7 +210,7 @@ combos:
   k: '-'
   l: [BASE]
 - p: [15, 25]
-  k: _
+  k: '&studio_unlock'
   l: [BASE]
 - p: [13, 23]
   k: '='
