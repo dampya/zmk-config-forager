@@ -228,9 +228,9 @@
             require-prior-idle-ms = <100>;
         };
 
-        combo_underscore {
-            bindings = <&kp UNDER>;
-            key-positions = <15 25>;        // H + N (right inner vertical)
+        combo_studio_unlock {
+            bindings = <&studio_unlock>;
+            key-positions = <15 25>;
             layers = <BASE>;
             timeout-ms = <40>;
             require-prior-idle-ms = <100>;
